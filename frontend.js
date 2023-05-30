@@ -6,6 +6,7 @@ import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import { Button } from "react-bootstrap";
 // ref: https://icons.getbootstrap.com/
 import { Trash } from "react-bootstrap-icons";
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 // ref: https://mui.com/material-ui/react-button/
 // import { Button } from '@mui/material';
